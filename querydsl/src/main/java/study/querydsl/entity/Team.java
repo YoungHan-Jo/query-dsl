@@ -1,6 +1,5 @@
 package study.querydsl.entity;
 
-import com.sun.xml.internal.ws.api.FeatureListValidatorAnnotation;
 import lombok.*;
 
 import javax.persistence.*;
